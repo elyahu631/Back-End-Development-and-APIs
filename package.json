@@ -1,4 +1,6 @@
 {
+	"author": "Elyahu Anavi",
+	"description": "Back End Development and APIs cours",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
@@ -10,6 +12,5 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/elyahu631/Back-End-Development-and-APIs"
-	},
-	"author": "Elyahu Anavi"
+	}
 }
