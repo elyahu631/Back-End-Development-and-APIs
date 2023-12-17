@@ -1,9 +1,10 @@
 {
 	"author": "Elyahu Anavi",
-	"description": "Back End Development and APIs cours",
+	"description": "Back End Development and APIs course",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"@freecodecamp/example": "1.2.13"
 	},
 	"main": "server.js",
 	"scripts": {
@@ -13,5 +14,7 @@
 		"type": "git",
 		"url": "https://github.com/elyahu631/Back-End-Development-and-APIs"
 	},
-	"keywords": ["freecodecamp", "nodejs", "backend", "api", "express"]
+	"keywords": ["freecodecamp", "nodejs", "backend", "api", "express"],
+	"license": "MIT",
+	"version": "1.0.0"
 }
