@@ -12,5 +12,6 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/elyahu631/Back-End-Development-and-APIs"
-	}
+	},
+	"keywords": ["freecodecamp", "nodejs", "backend", "api", "express"]
 }
